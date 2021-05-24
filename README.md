@@ -20,6 +20,3 @@ npm run build
 npm run lint
 ```
 
-### Login to imgur create app Id
-images/src/api/imgur.js 
-use it here and enjoy the the App :)
