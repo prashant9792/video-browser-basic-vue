@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Login to imgur create app Id
+images/src/api/imgur.js 
+use it here and enjoy the the App :)
